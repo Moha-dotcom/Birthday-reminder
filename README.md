@@ -1,1 +1,1 @@
-<img
+<img src="src/images/birthday-app.png" />
