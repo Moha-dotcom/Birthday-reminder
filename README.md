@@ -1,7 +1,7 @@
 
 <h4> React Application :  <h4>
 
-First:
+First Instapp NPM:
 
 <code> Npm install  </code>
 
